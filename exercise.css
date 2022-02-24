@@ -1,0 +1,45 @@
+.right {
+  width: 216px;
+  height: 51.54px;
+  margin-left: 220px;
+}
+
+.card {
+  width: 346px;
+  position: relative;
+  display: inline-block;
+  height: 131px;
+  color: grey;
+}
+
+.add-cart {
+  width: 147px;
+  height: 48px;
+  background-color: black;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  color: white;
+}
+
+.size {
+  text-align: right;
+  width: 88px;
+  height: 125px;
+  margin-left: 350px;
+  padding-top: 50px;
+  color: grey;
+}
+
+.display {
+  display: inline-block;
+  margin-left: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-title {
+  font-size: 50px;
+  width: 415px;
+  position: relative;
+  display: inline-block;
+  height: 91px;
+}
