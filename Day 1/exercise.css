@@ -2,6 +2,7 @@
   width: 216px;
   height: 51.54px;
   margin-left: 220px;
+  text-align: right;
 }
 
 .card {
@@ -33,13 +34,48 @@
 .display {
   display: inline-block;
   margin-left: 60px;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .text-title {
-  font-size: 50px;
-  width: 415px;
+  font-size: 25px;
   position: relative;
   display: inline-block;
-  height: 91px;
+}
+
+* {
+  font-family: "Libre Franklin";
+}
+
+.image-box img {
+  width: 535px;
+  height: 738px;
+}
+
+.material {
+  margin-left: 300px;
+  font-size: 12px;
+  text-align: right;
+  color: grey;
+}
+
+.small-font {
+  font-size: 10px;
+}
+.font-bold {
+  font-weight: bold;
+}
+
+.small-weight {
+  font-weight: 100;
+}
+.medium-weight {
+  font-weight: 300;
+}
+.margin {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.font-large {
+  font-size: 20px;
 }
