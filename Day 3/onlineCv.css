@@ -1,0 +1,13 @@
+* {
+  background-color: slategray;
+}
+
+.box {
+  border: 1px solid black;
+  height: auto;
+  width: auto;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-top: 20px;
+  display: inline-block;
+}
